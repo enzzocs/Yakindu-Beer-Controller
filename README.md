@@ -1,2 +1,1 @@
-# yakindu-example-beer-controller
-Example from lectures on Embedded System at IFSC
+Controlador de temperatura e tempo para os processos de fabricação de cerveja descritos no .pdf
